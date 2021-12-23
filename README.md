@@ -14,6 +14,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hemant051&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant051&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hemant051&theme=gruvbox" />  
 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hemant051.Hemant051)
